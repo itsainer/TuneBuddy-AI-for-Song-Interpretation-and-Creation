@@ -9,7 +9,8 @@ from reportlab.pdfgen import canvas
 from streamlit_option_menu import option_menu
 # %%
 load_dotenv()
-openai.api_key = os.getenv("OPENAI_API_KEY")
+openai_api_key = st.secrets["OPENAI_API_KEY"]
+openai.api_key = openai_api_key
 # %%
 example1 = """
 Summarize the meaning of 'Perfect' song by Ed Sheeran in 50 words length.
