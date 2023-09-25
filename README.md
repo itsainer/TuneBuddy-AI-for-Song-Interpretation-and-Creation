@@ -6,5 +6,7 @@ Finding and understanding songs can be a challenge because we usually have to re
 Hence, let AI TuneBuddy helps you! This app can summarize the meanings of any song you want, interpret each line or any part of the song. Plus, it helps us to create our own lyrics! Just enter your existing ideas and let AI generates for you.
 
 For more information, you can refer this documentation: 
+
 Streamlit cloud - https://tunebuddy-ai-for-song-interpretation-and-creation-h6kpmxgpx99q.streamlit.app/
+
 Gamma AI - https://gamma.app/docs/TuneBuddy-ixntwxroan5fx9c
