@@ -3,7 +3,7 @@
 import os
 import openai
 import streamlit as st
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 from reportlab.lib.pagesizes import letter
 from reportlab.pdfgen import canvas
 from streamlit_option_menu import option_menu
