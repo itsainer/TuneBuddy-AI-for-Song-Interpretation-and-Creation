@@ -9,4 +9,4 @@ For more information, you can refer this documentation:
 
 Streamlit cloud - https://tunebuddy-ai-for-song-interpretation-and-creation-h6kpmxgpx99q.streamlit.app/
 
-Gamma AI - https://gamma.app/docs/TuneBuddy-ixntwxroan5fx9c
+Gamma AI - https://gamma.app/public/TuneBuddy-ixntwxroan5fx9c
